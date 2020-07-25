@@ -1,2 +1,3 @@
-# RideSharing
-Master's Project - Ride Sharing Price Estimation in Chicago
+
+This is the project that I am currently working on with professor from UIC Business School.
+
