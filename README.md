@@ -1,3 +1,3 @@
 
-This is the project that I am currently working on with professor from UIC Business School.
+This is the project that I am currently working on with a professor from UIC Graduate School of Business.
 
